@@ -14,7 +14,7 @@ Some key features of Amanda:
 
 #To run Amanda locally:
 
-    Install KoboldCPPS server on your machine
+    Run downloadmodel.py
     Run install.bat to set up dependencies and data for Amanda
     Launch koboldcpp server
     Run amandaserver.bat to launch Amanda bot
