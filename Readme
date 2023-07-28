@@ -1,0 +1,44 @@
+User Guide: Amanda AI Twitch Streaming Chatbot
+
+Welcome to the user guide for the amandas AI Twitch streaming chatbot! This guide will walk you through the setup and usage of the chatbot, ensuring smooth operation during your Twitch streams. Please follow the instructions carefully.
+
+Note: The chatbot requires a Windows operating system to run.
+
+**Initial Setup:**
+
+1. Download the chatbot files from the provided source.
+2. Locate the downloaded files and extract them to a preferred directory.
+
+**Installation:**
+
+1. Open the extracted folder and locate the file named "install.bat."
+2. Double-click on "install.bat" to run the installation script.
+3. Wait for the installation process to complete. This may take a few moments.
+
+Note: The installation process is a one-time setup that prepares the chatbot for usage. You will not need to repeat this step on subsequent runs.
+
+**Starting the Chatbot:**
+
+1. After the initial setup, you will need to start the chatbot before each Twitch stream.
+2. Open the extracted folder and locate the file named "amanda server.bat."
+3. Double-click on "amandaserver.bat" to start the server for the chatbot.
+
+**Running the Chatbot:**
+
+1. With the server running, open the extracted folder again and locate the file named "amanda.bat."
+2. Double-click on "Run amanda.bat" to launch the chatbot application.
+3. The chatbot will now be active and ready to engage with your Twitch chat.
+
+**Ending the Twitch Stream:**
+
+1. After completing your Twitch stream, it is essential to save the chatbot's memory and shut it down properly.
+2. Open the extracted folder and locate the file named "save memory.bat."
+3. Double-click on "save memory.bat" to save the chatbot's current state.
+4. Make sure to perform this step while the "amandaserver.bat" is still running.
+
+**Note:**
+
+- It's important to keep the "amandaserver.bat" running in the background while the chatbot is active. This allows the chatbot to interact with the Twitch chat effectively.
+- Remember to run "save memory.bat" after each full Twitch stream to preserve the chatbot's memory and avoid losing any training data.
+
+Congratulations! You have successfully set up and used the Amandas AI Twitch streaming chatbot. If you encounter any issues or have any questions, refer to this provided documentation or contact me.

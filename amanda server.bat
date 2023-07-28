@@ -1,0 +1,1 @@
+ .\server.exe .\model.bin       --threads 7 --highpriority  --blasbatchsize 1024  --unbantokens
